@@ -12,3 +12,5 @@ Open your terminal and type the following commands
 **sudo apt-get install vim** 
 
 **sudo apt-get update** will update the package lists and get newest versions of packages and their dependencies. 
+
+![Alt text](https://github.com/BethMwangi/blog_post/blob/master/img/img1?raw=true)
