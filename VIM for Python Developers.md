@@ -6,6 +6,7 @@
 
 ###Installation
 Open your terminal and type the following commands 
+![Alt text](https://github.com/BethMwangi/blog_post/blob/master/img/img1?raw=true)
 
 **sudo apt-get update** 
 
@@ -13,4 +14,6 @@ Open your terminal and type the following commands
 
 **sudo apt-get update** will update the package lists and get newest versions of packages and their dependencies. 
 
-![Alt text](https://github.com/BethMwangi/blog_post/blob/master/img/img1?raw=true)
+##The screen preview when updating..
+![Alt text](https://github.com/BethMwangi/blog_post/blob/master/img/img2?raw=true "Updating the packages")
+
