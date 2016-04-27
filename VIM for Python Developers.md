@@ -19,4 +19,4 @@ Open your terminal and type the following commands
 
 After the update, type **sudo apt-get install vim**  to now download the Vim to your machine 
 ##The screen preview when downloading vim
-![Alt text](https://github.com/BethMwangi/blog_post/blob/master/img/img3raw=true "Downloading Vim")
+![Alt text](https://github.com/BethMwangi/blog_post/blob/master/img/img3?raw=true "Downloading Vim")
