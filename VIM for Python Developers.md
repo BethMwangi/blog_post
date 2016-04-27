@@ -8,6 +8,7 @@
 Open your terminal and type the following commands 
 
 **sudo apt-get update** 
+
 **sudo apt-get install vim** 
 
 **sudo apt-get update** will update the package lists and get newest versions of packages and their dependencies. 
