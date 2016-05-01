@@ -7,4 +7,5 @@ quite an easy language to grasp. I am always eager to find new learning material
 The reason for writing this blog is to share the secret to learning good practices in python programming.
 Infact, if you want to become an expert python developer, read the documentation. 
 The documentation has covered all the concepts in Python. Read it cover to cover, then thank me later.
+I am going to share some of the few and useful python standards you should know before you start coding. 
 
