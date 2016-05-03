@@ -16,9 +16,9 @@ Let's say you have defined (*def*) a function that prints 2 arguments ,*arg1* an
  Always use 4 spaces per indentation level
  
  ```python
- -def print_two(*args):
- ->>>>arg1, arg2 = args
- ->>>>print "arg1: %r, arg2: %r" %(arg1, arg2)
+ def print_two(*args):
+ >>>>arg1, arg2 = args
+ >>>>print "arg1: %r, arg2: %r" %(arg1, arg2)
 
 ```
 
