@@ -11,5 +11,10 @@ I am going to share some of the few and useful python standards you should know 
 
 ### The code style guide
 **Indentation**
+Examlple :
+Let's say you have defined (*def*) a function that prints 2 arguments ,*arg1* and *arg2*, the next line, i.e  >>>>arg1, arg2 = args has 4 spaces indicated by >>>>. The indented lines take up the print_two function.
  Always use 4 spaces per indentation level
+ def print_two(*args):
+ >>>>arg1, arg2 = args
+ >>>>print "arg1: %r, arg2: %r" %(arg1, arg2)
  
