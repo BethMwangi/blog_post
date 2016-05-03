@@ -19,6 +19,9 @@ Let's say you have defined (*def*) a function that prints 2 arguments ,*arg1* an
  def print_two(*args):
  >>>>arg1, arg2 = args
  >>>>print "arg1: %r, arg2: %r" %(arg1, arg2)
+ 
+ def print_two_again(arg1, arg2):
+    print "arg1: %r, arg2: %r" %(arg1, arg2)
 
 ```
 
