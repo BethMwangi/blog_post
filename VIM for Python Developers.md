@@ -6,9 +6,23 @@
 
 ###Installation
 Open your terminal and type the following commands 
+![Alt text](https://github.com/BethMwangi/blog_post/blob/master/img/img1?raw=true)
 
 **sudo apt-get update** 
 
 **sudo apt-get install vim** 
 
 **sudo apt-get update** will update the package lists and get newest versions of packages and their dependencies. 
+
+##The screen preview when updating..
+![Alt text](https://github.com/BethMwangi/blog_post/blob/master/img/img2?raw=true "Updating the packages")
+
+After the update, type **sudo apt-get install vim**  to now download the Vim to your machine 
+##The screen preview when downloading vim
+![Alt text](https://github.com/BethMwangi/blog_post/blob/master/img/img3?raw=true "Downloading Vim")
+
+You have now installed Vim and you can write your first python program.
+
+Happy Coding :)
+
+
